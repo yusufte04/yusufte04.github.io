@@ -1,0 +1,84 @@
+
+html {background-image:url("Images/circut.jpg");
+  background-repeat: repeat;
+  width: auto;
+  height: auto;
+}
+.body{
+  display: flex;
+
+}
+.text {
+  padding:16px;
+}
+.Box2{
+  display: flex;
+}
+
+.Title{
+  margin-left:32.5% ;
+  margin-right:32.5%;
+  width:35%;
+  font-family:sans-serif;
+  font-size: 40px
+}
+
+.body{
+
+align-content:center;
+
+}
+.title {
+  display: flex;
+
+}
+.Menu {
+  font-family: fantasy;
+  display: flex;
+
+}
+.Menu li{
+  text-align:left;
+  display: block;
+  padding: 10px;
+  background-color: #FFFF00;
+  border-radius: 20px;
+}
+.Menu2 li{
+  text-align:left;
+  display: block;
+  padding: 10px;
+  background-color: #FFFF00;
+  border-radius: 20px;
+  display:flex;
+}
+.Menu2 {
+  font-family: fantasy;
+  display: flex;
+}
+
+.content {
+  background-color: #27AE60  ;
+  margin-left:30% ;
+  margin-right:30%;
+  width:40%;
+  margin-bottom: 16px;
+  border-radius: 10px;
+  padding: 16px;
+}
+.pagehead{
+  color: white;
+  padding:8px
+}
+
+.subhead{
+  padding: 8px
+}
+
+.image2{
+  width:240px;
+  height:150px;
+}
+.footer {
+  color: white;
+}
