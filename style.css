@@ -1,8 +1,8 @@
 
 html {background-image:url("Images/background.jpg");
   background-repeat: no-repeat;
-  width: auto;
-  height: auto;
+  width: 300;
+  height: 100;
 }
 .body{
   display: flex;
